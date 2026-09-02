@@ -1,0 +1,7 @@
+{
+  "name": "casa rl.",
+  "description": "Control y división de gastos grupales en partes y porcentajes, registro por voz, categorías, resumen mensual, seguimiento de ingresos e inversiones, sincronización offline y exportación a CSV o Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
